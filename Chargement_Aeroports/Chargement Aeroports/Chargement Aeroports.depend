@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649337031 source:c:\users\yassi\desktop\programmes\chargement aeroports\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
+1649339695 source:d:\lol\chargement_aeroports\chargement aeroports\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
